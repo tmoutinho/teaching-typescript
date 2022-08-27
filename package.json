@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Tiago Moutinho <tiagoagm@gmail.com>",
-  "license": "GPL",
+  "private": true,
   "devDependencies": {
     "@types/node": "^18.6.5",
     "chokidar": "^3.5.3",
